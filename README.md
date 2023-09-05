@@ -1,2 +1,3 @@
-# daspro-jobsheet2
-Repositoriku yang pertama
+# Dasar Pemrograman - Jobsheet2
+
+ini adalah repository pertama saya
